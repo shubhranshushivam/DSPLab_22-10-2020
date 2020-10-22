@@ -16,4 +16,4 @@ n=int(input("Enter size="))
 arr=[]
 for i in range(n):
     arr.append(int(input("ENter element=")))
-print("After Sorted="swap(arr))
+print("After Sorted=",swap(arr))
